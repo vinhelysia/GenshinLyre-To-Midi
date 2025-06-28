@@ -1,6 +1,6 @@
 # GenshinLyre-To-Midi
 
-This project provides a tool to convert musical notes played on the Lyre instrument in the game Genshin Impact into MIDI files. These MIDI files are specifically generated for use with [GenshinLyreMidiPlayer]([https://github.com/sabihoshi/GenshinLyreMidiPlayer]), a software that plays MIDI files in the style of the Lyre instrument from Genshin Impact. This allows users to export their in-game musical creations and play them back using GenshinLyreMidiPlayer.
+This project provides a tool to convert musical notes played on the Lyre instrument in the game Genshin Impact into MIDI files. These MIDI files are specifically generated for use with [GenshinLyreMidiPlayer](https://github.com/sabihoshi/GenshinLyreMidiPlayer), a software that plays MIDI files in the style of the Lyre instrument from Genshin Impact. This allows users to export their in-game musical creations and play them back using GenshinLyreMidiPlayer.
 
 ## What is MIDI?
 
